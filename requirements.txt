@@ -1,0 +1,24 @@
+# TensorRT Upscaler ComfyUI Node Dependencies
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pillow>=8.0.0
+
+# Model loading and conversion
+spandrel>=0.3.0
+spandrel-extra-arches>=0.1.0
+onnx>=1.12.0
+
+# TensorRT (must be installed separately from NVIDIA)
+# tensorrt>=8.6.0  # Uncomment if installing via pip (not recommended)
+# pycuda>=2021.1   # Uncomment if installing via pip
+
+# Optional: for downloading models
+requests>=2.25.0
+tqdm>=4.62.0
+
+# Development dependencies (for testing)
+# pytest>=6.0.0
+# pytest-cov>=2.12.0

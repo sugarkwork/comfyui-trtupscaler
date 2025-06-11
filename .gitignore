@@ -1,0 +1,9 @@
+/.claude
+/models_dir.txt
+/pth_files.txt
+/python_path.txt
+/temp
+/temp_dir.txt
+/tensorrt_version_info.txt
+/trtexec_path.txt
+/__pycache__
