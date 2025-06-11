@@ -2,6 +2,9 @@
 
 A high-performance image upscaling node for ComfyUI using TensorRT acceleration.
 
+![image](https://github.com/user-attachments/assets/cf74b89a-bffe-4f65-a6a6-2195c33248f0)
+
+
 ## Features
 
 - TensorRT-accelerated inference for fast upscaling
