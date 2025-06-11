@@ -10,6 +10,6 @@ Repository = "https://github.com/sugarkwork/comfyui-trtupscaler"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "sugarknight"
 DisplayName = "comfyui-trtupscaler"
 Icon = ""
